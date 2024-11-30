@@ -3,7 +3,7 @@
 Welcome to **User Management App**! This project is a user management system where you can fetch users from an API, add new users, remove users and search users. Built with React and Redux Toolkit, it showcases modern front-end development practices.
 
 Demo
-You can view a live demo of this project here.
+You can view a live demo of this project [here](https://user-management-app-chi-henna.vercel.app/).
 
 ## Features
 - Fetch Users: Retrieve a list of users from a public API.
@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 Open your browser and visit http://localhost:3000 to view the app.
 
 Deployment
-This project is deployed on Vercel. Check the live version here.
+This project is deployed on Vercel. Check the live version [here](https://user-management-app-chi-henna.vercel.app/).
 
 Responsiveness
 The application includes responsive design principles:
